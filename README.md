@@ -12,5 +12,5 @@ _play $ songGenerator i n_
 # Examples
 If you're too afraid to try a random root note and seed, why not try these?
 
-i = 7, n = 53 (Key of F)
-i = 43, n = 50 (Key of D)
+* i = 7, n = 53 (Key of F)
+* i = 43, n = 50 (Key of D)
